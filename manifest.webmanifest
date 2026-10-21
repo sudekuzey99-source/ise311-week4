@@ -1,0 +1,23 @@
+{
+  "name": "ISE 311 Week 4 — HTML 2 Workbook",
+  "short_name": "ISE311 Week4",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF9FC",
+  "theme_color": "#F3ECFF",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
